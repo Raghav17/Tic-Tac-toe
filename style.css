@@ -1,0 +1,19 @@
+td {
+border: 1px solid black;
+height: 100px;
+width: 100px;
+float: center;
+margin: 20px;
+cursor: pointer;
+}
+.container{
+  background-color: coral;
+  max-width: 500px;
+  float: center;
+  }
+.endgame {
+  display: none;
+}
+button{
+  margin: 20px;
+}
